@@ -1,10 +1,10 @@
-package com.javatpoint;
+package com.man.submod.service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringBootRestExampleApplicationTests {
+class ServiceApplicationTests {
 
 	@Test
 	void contextLoads() {

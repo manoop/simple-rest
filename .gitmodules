@@ -1,0 +1,4 @@
+[submodule "parent"]
+	path = parent
+	url = https://github.com/manoop/parent.git
+	branch = develop
